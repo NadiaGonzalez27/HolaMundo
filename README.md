@@ -2,4 +2,4 @@
 
 Mi primer repositorio en Github
 
-i love :icecream:, :coffe:
+i love :icecream:, :dog:, 🥑
